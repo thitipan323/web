@@ -1,0 +1,11 @@
+{
+  "_comment": "company_config.json — แก้ไขไฟล์นี้ก่อนแจกแอปให้พนักงาน (วางไว้ในโฟลเดอร์เดียวกับ SmartSit.exe)",
+  "alert_after_seconds": 10,
+  "sound_enabled": true,
+  "draw_skeleton": true,
+  "camera_index": 0,
+  "thresholds": {
+    "shoulder_tilt": 0.04,
+    "distance_ratio": 0.8
+  }
+}

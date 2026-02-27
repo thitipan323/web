@@ -3,3 +3,6 @@ opencv-python
 customtkinter
 numpy
 pillow
+
+# สำหรับ build เป็น .exe เท่านั้น (ไม่จำเป็นสำหรับรันตรง)
+pyinstaller
